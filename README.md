@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  I'm Ahmed Hariri, a Front-End Engineer passionate about building fast, secure, and scalable web experiences. 
+  I'm Ahmed Hariri, a Front-End Developer passionate about building fast, secure, and scalable web experiences. 
   I focus on writing clean, efficient code while optimizing performance and ensuring strong security practices. 
   Continuously learning and exploring new technologies, my goal is to create intuitive, high-performance interfaces that
   deliver the best user experience.
